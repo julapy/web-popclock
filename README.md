@@ -8,7 +8,7 @@ Its super simple - give it a list, set a frequency and the clock will tick throu
 
 You can use it to periodically decide what you should be doing.
 ```
-http://codeoncanvas.cc/popclock/?list=eat,sleep,code,repeat&seconds=3
+http://codeoncanvas.cc/popclock/?list=eat,sleep,code,repeat&seconds=2
 ```
 
 We're using it to choose the name of our new baby! (Hence the Pop in the title) We have a shortlist of names that we like but figured it would be nice for the baby to make the final decision :)

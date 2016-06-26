@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'HelveticaNeueLTStd-Hv';
+    src: url('fonts/HelveticaNeueLTStd-Hv.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLTStd-Lt';
+    src: url('fonts/HelveticaNeueLTStd-Lt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLTStd-Md';
+    src: url('fonts/HelveticaNeueLTStd-Md.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

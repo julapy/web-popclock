@@ -319,7 +319,7 @@ $intervalParam = $_GET["seconds"];
     </script>
 </head>
 <body>
-<div id="info"><a href="https://github.com/julapy/web-popclock">Pop Clock</a></div>
+<!-- <div id="info"><a href="https://github.com/julapy/web-popclock">Pop Clock</a></div> -->
 <canvas id="canvas" resize keepalive="true" hidpi="off"></canvas>
 </body>
 </html>

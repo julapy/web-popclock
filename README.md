@@ -14,3 +14,5 @@ http://codeoncanvas.cc/popclock/?list=eat,sleep,code,repeat&seconds=2
 We're using it to choose the name of our new baby! (Hence the Pop in the title) We have a shortlist of names that we like but figured it would be nice for the baby to make the final decision :)
 
 [http://codeoncanvas.cc/popclock?list=pascale,pia,stevie,holiday&seconds=60](http://codeoncanvas.cc/popclock?list=pascale,pia,stevie,holiday&seconds=60)
+
+![image](images/popclock.gif)
